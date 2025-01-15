@@ -1,9 +1,25 @@
 {
-    "version": "1.9.0",
-    "homepage": "http://yourwebsite.com/plugins/msteele-toolkit",
-    "download_url": "http://yourwebsite.com/plugins/msteele-toolkit/msteele-toolkit-v1.9.0.zip",
-    "requires": "5.0",
-    "tested": "6.3",
-    "last_updated": "2025-01-15",
-    "upgrade_notice": "This update includes new features and critical bug fixes. Please update to ensure compatibility with the latest WordPress version."
+    "name": "Montana Steele Toolkit",
+    "version": "2.0",
+    "download_url": "http://montananeo.wpengine.com/dev-plugins/msteele-toolkit/msteele-toolkit.zip",
+    "homepage": "https://montanasteele.com/",
+    "requires": "4.6",
+    "tested": "5.4",
+    "last_updated": "2020-02-07 13:17:00",
+    "upgrade_notice": "Updated ACF Pro",
+    "author": "Montata Steele",
+    "author_homepage": "https://github.com/MontanaSteele/msteele-toolkit.git",
+    "sections": {
+        "description": "This is a toolkit for websites developed by Montana Steele. This toolkit only contains the backend implementations. Any frontend implementations must be done in the custom theme.",
+        "installation": "Download the plugin, install it and then activate it.",
+        "changelog": "To view the changelog visit the GitHub page."
+    },
+    "icons": {
+        "1x": "http://montananeo.wpengine.com/dev-plugins/msteele-toolkit/assets/icon-128x128.png",
+        "2x": "http://montananeo.wpengine.com/dev-plugins/msteele-toolkit/assets/icon-256x256.png"
+    },
+    "banners": {
+        "low": "http://montananeo.wpengine.com/dev-plugins/msteele-toolkit/assets/banner-772x250.png",
+        "high": "http://montananeo.wpengine.com/dev-plugins/msteele-toolkit/assets/banner-1544x500.png"
+    }
 }
