@@ -1,0 +1,9 @@
+{
+    "version": "1.9.0",
+    "homepage": "http://yourwebsite.com/plugins/msteele-toolkit",
+    "download_url": "http://yourwebsite.com/plugins/msteele-toolkit/msteele-toolkit-v1.9.0.zip",
+    "requires": "5.0",
+    "tested": "6.3",
+    "last_updated": "2025-01-15",
+    "upgrade_notice": "This update includes new features and critical bug fixes. Please update to ensure compatibility with the latest WordPress version."
+}
